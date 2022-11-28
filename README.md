@@ -6,7 +6,10 @@
 - 🌱 learning New Techs & Recreating :construction:  
 - 👯 looking to collaborate on New Projects ☺
 - 📫 How to reach me: [@anujitha_fernando](mailto:fernandoanujitha@gmail.com;)
-
+  
+President - Leo Club of SLIIT 2022/23
+Secretary - Faculty of Computing Student Community 2022/23
+Assistant Secretary - Student Interactive Society 2022/23
 
 **CONNECT WITH ME:**
 
