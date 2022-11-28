@@ -1,7 +1,7 @@
-### Hi there I'm Anujitha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<h2 align="center">Anujitha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
+<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h4 align="center">Software Engineering Graduand</h4>
 
-- 🔭 I’m currently working on **Year 2 Semester 2 IT Project**
-- 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: fernandoanujitha@gmail.com
 
 **CONNECT WITH ME:**
