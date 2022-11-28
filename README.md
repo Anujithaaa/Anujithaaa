@@ -2,7 +2,11 @@
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 <h4 align="center">Software Engineering Graduand</h4>
 
-- 📫 How to reach me: fernandoanujitha@gmail.com
+- 🔭 I’m currently working on something cool :bulb: 
+- 🌱 learning New Techs & Recreating :construction:  
+- 👯 looking to collaborate on New Projects ☺
+- 📫 How to reach me: [@anujitha_fernando](mailto:fernandoanujitha@gmail.com;)
+
 
 **CONNECT WITH ME:**
 
