@@ -1,4 +1,4 @@
-### Hi there I'm Anujitha Fernando 👋
+### Hi there I'm Anujitha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 - 🔭 I’m currently working on **Year 2 Semester 2 IT Project**
 - 🌱 I’m currently learning **Node.js**
