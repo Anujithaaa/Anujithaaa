@@ -1,6 +1,5 @@
 <h1 align="center">Anujitha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
-<h2 align="center">I'm a passionate Full Stack Developer.</h2>
-<h3 align="center">Software Engineering Graduand</h3>
+<h2 align="center">I'm a passionate Business Analyst-Project Manager</h2>
 
 - 🔭 I’m currently working on something cool :bulb: 
 - 🌱 learning New Techs & Recreating :construction:  
