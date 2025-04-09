@@ -1,10 +1,6 @@
 <h1 align="center">Anujitha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 <h2 align="center">I'm a passionate Full Stack Developer.</h2>
 <h3 align="center">Software Engineering Graduand</h3>
-  
-  <b> President - Leo Club of SLIIT 2022/23 </b> </br>
-<b> Secretary - Faculty of Computing Student Community 2022/23 </b> </br>
-<b> Assistant Secretary - Student Interactive Society 2022/23 </b> </br>
 
 - 🔭 I’m currently working on something cool :bulb: 
 - 🌱 learning New Techs & Recreating :construction:  
